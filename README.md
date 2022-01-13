@@ -9,3 +9,4 @@ https://discourse.julialang.org/t/working-with-a-single-equation-split-up-into-s
 
 https://discourse.julialang.org/t/symbolics-jl-and-latexify-jl-customize-latex-representations/72180?u=adomasbaliuka
 
+https://discourse.julialang.org/t/generate-function-with-keyword-arguments-from-symbolics-expression/74556?u=adomasbaliuka
